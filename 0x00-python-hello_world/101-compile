@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
+#!/bin/bash
 python -m compileall $PYFILE "$PYFILE"c
