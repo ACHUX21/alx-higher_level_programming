@@ -9,6 +9,6 @@ else:
 if num > 5:
     print(f"{num} and is greater than 5")
 elif num < 5 and number != 0:
-    print(f"{num} and is less than 6 and not equal to 0")
+    print(f"{num} and is less than 6 and not 0")
 else:
     print(f"{num} and is 0")
